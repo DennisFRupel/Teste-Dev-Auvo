@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Curriculum", "Curriculum\Curriculum.csproj", "{3A805D6E-01A0-40E3-95B5-DBC0F1078676}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoHoras", "CalculoHoras\CalculoHoras.csproj", "{31EC80AD-EAEF-4D2B-A489-50638C69FF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A805D6E-01A0-40E3-95B5-DBC0F1078676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A805D6E-01A0-40E3-95B5-DBC0F1078676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A805D6E-01A0-40E3-95B5-DBC0F1078676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A805D6E-01A0-40E3-95B5-DBC0F1078676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EC80AD-EAEF-4D2B-A489-50638C69FF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EC80AD-EAEF-4D2B-A489-50638C69FF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EC80AD-EAEF-4D2B-A489-50638C69FF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EC80AD-EAEF-4D2B-A489-50638C69FF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DAF33EE-0FB2-460B-9D23-1A4A66A4719A}
+	EndGlobalSection
+EndGlobal
